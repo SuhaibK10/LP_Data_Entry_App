@@ -175,7 +175,7 @@ export default function App() {
       {/* Step 2: Product Rendered Photos (up to 3) */}
       {phase === "step2" && (
         <PhotoStep
-          title={editMode ? "Rendered photos" : "Product\nrendered photos"}
+          title={editMode ? "Rendered photos" : "Product rendered photos"}
           subtitle="Upload up to 3 hero product images used for listings and catalogues"
           photo={data.renderedPhotos}
           onPhoto={handleRenderedPhotos}

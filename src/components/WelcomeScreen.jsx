@@ -63,7 +63,7 @@ export default function WelcomeScreen({ onStart, onViewProducts }) {
         margin: "16px 0 0",
         ...stagger("0.25s"),
       }}>
-        Enter product details for GS1 registration. Have the product ready for photos.
+        Enter product details for lisitng on GS1 And Website 
       </p>
 
       {/* Primary CTA — with border and shadow */}
