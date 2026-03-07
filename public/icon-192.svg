@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="24" fill="#0C0C0C"/>
+  <line x1="72" y1="60" x2="120" y2="60" stroke="#B8965A" stroke-width="1.5" opacity="0.7"/>
+  <text x="96" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="400" letter-spacing="8" fill="#FAF9F6">LP</text>
+  <text x="96" y="138" text-anchor="middle" font-family="Helvetica, sans-serif" font-size="10" font-weight="300" letter-spacing="3" fill="#B8965A">GS1</text>
+</svg>
