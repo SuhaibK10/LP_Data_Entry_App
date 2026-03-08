@@ -1,7 +1,7 @@
 {
-  "name": "Louis Polo — GS1 Product Entry",
-  "short_name": "LP GS1",
-  "description": "Internal product data entry for GS1 registration",
+  "name": "Louis Polo — Product Entry",
+  "short_name": "LP ",
+  "description": "Internal product data entry for registration",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0C0C0C",

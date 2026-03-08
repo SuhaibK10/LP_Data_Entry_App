@@ -2,7 +2,7 @@
   "name": "lp-gs1-product-entry",
   "private": true,
   "version": "2.0.0",
-  "description": "Louis Polo — Internal GS1 product data entry tool for factory floor use",
+  "description": "Louis Polo — Internal product data entry tool for factory floor use",
   "type": "module",
   "scripts": {
     "dev": "vite",

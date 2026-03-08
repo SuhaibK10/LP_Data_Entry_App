@@ -62,7 +62,7 @@ export async function uploadPhoto(photoObj) {
   const formData = new FormData()
   formData.append("file", fileToUpload)
   formData.append("upload_preset", CONFIG.CLOUDINARY_UPLOAD_PRESET)
-  formData.append("folder", "louis-polo-gs1")
+  formData.append("folder", "louis-polo")
 
   const response = await fetch(
     `https://api.cloudinary.com/v1_1/${CONFIG.CLOUDINARY_CLOUD_NAME}/image/upload`,

@@ -1,6 +1,6 @@
-# Louis Polo — GS1 Product Data Entry
+# Louis Polo —  Product Data Entry
 
-> Internal tool for capturing and managing product data from the factory floor for GS1 registration.
+> Internal tool for capturing and managing product data from the factory floor for registration.
 
 Built with **React 18 + Vite** · Photos via **Cloudinary** · Data via **Google Sheets + Apps Script**
 

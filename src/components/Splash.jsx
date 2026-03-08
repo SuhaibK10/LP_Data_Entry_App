@@ -77,7 +77,7 @@ export default function Splash({ onDone }) {
           fontFamily: T.sans, fontSize: 10, letterSpacing: "0.25em",
           textTransform: "uppercase", color: T.gold, fontWeight: 400, margin: 0,
         }}>
-          GS1 Product Entry App
+          Product Entry App
         </p>
         <p style={{
           fontFamily: T.sans, fontSize: 9, letterSpacing: "0.15em",
